@@ -81,50 +81,51 @@
 <div class="bg-black text-white font-sans px-4 py-6 md:px-12 max-w-7xl mx-auto">
     <div class="flex flex-col lg:flex-row lg:items-start lg:gap-8">
         <!-- Kontainer Konten -->
-        <div class="w-full lg:w-2/3">
-            <h1 class="text-base font-bold">Program Sobek Label Yamalube</h1>
-            <ul class="list-disc list-inside mb-8">
-                <li>PROGRAM SOBEK LABEL YAMALUBE (yang selanjutnya akan di sebut “program”) di Selenggarakan Oleh PT Yamaha Motor Indonesia Manufacturing (yang selanjutnya akan di sebut “penyelengara”) untuk Mekanik Bengkel (penjual) Oli Yamalube di Indonesia</li>
-                <li class="md:whitespace-nowrap">PROGRAM SOBEK LABEL YAMALUBE dikelola melalui www.yamalubepromo.com (yang selanjutnya akan di sebut “sistem”)</li>
-                <li class="md:whitespace-nowrap">Peserta yang ingin mengikuti program ini wajib mendaftarkan akunnya pada sistem</li>
+        <div class="w-full lg:w-2/3 lg:pr-8">
+            <h1 class="text-lg font-bold mb-4 sm:text-base">Program Sobek Label Yamalube</h1>
+            <ul class="list-disc list-inside mb-8 space-y-2 lg:text-nowrap">
+                <li>PROGRAM SOBEK LABEL YAMALUBE (yang selanjutnya akan disebut “program”) diselenggarakan oleh PT Yamaha Motor Indonesia Manufacturing </li>
+                <li> (yang selanjutnya akan disebut “penyelenggara”) untuk Mekanik Bengkel (penjual) Oli Yamalube di Indonesia.</li>
+                <li>PROGRAM SOBEK LABEL YAMALUBE dikelola melalui www.yamalubepromo.com (yang selanjutnya akan disebut “sistem”).</li>
+                <li>Peserta yang ingin mengikuti program ini wajib mendaftarkan akunnya pada sistem.</li>
             </ul>
 
-            <h2 class="text-base font-bold">QR Code Pada Label Yamalube</h2>
-            <ul class="list-disc list-inside mb-8">
-                <li class="md:whitespace-nowrap">Hanya QRcode label berhadiah pada produk ASLI, yang dapat divalidasi oleh sistem</li>
-                <li class="md:whitespace-nowrap">QRcode label berhadiah terdapat di semua tipe Oli Mesin Yamalube 2T, XP50, Silver, Gold, Matic, Power Matic, Super Matic, Sport, Super Sport, RS4GP</li>
+            <h2 class="text-lg font-bold mb-4 sm:text-base">QR Code Pada Label Yamalube</h2>
+            <ul class="list-disc list-inside mb-8 space-y-2 lg:text-nowrap">
+                <li>Hanya QR code label berhadiah pada produk ASLI, yang dapat divalidasi oleh sistem.</li>
+                <li>QR code label berhadiah terdapat di semua tipe Oli Mesin Yamalube 2T, XP50, Silver, Gold, Matic, Power Matic, Super Matic, Sport, Super Sport, RS4GP.</li>
             </ul>
 
-            <h2 class="text-base font-bold">Poin Mekanik</h2>
-            <ul class="list-disc list-inside mb-8">
-                <li>Point yang terkumpul dari setiap QRcode Yamalube dapat ditukarkan dengan Uang Digital (e-wallet), evoucher, token listrik maupun produk digital lainnya</li>
-                <li class="md:whitespace-nowrap">Penukaran poin per bulan minimal 25.750 poin dan maksimal senilai 512.000 poin</li>
-                <li>Pengiriman uang digital dilaksanakan setiap hari secara Real Time setelah mengisi Data Diri & Data Pengiriman reward dengan lengkap</li>
+            <h2 class="text-lg font-bold mb-4 sm:text-base">Poin Mekanik</h2>
+            <ul class="list-disc list-inside mb-8 space-y-2 lg:text-nowrap">
+                <li>Poin yang terkumpul dari setiap QR code Yamalube dapat ditukarkan dengan Uang Digital (e-wallet), e-voucher, token listrik maupun produk digital lainnya.</li>
+                <li>Penukaran poin per bulan minimal 25.750 poin dan maksimal senilai 512.000 poin.</li>
+                <li>Pengiriman uang digital dilaksanakan setiap hari secara real-time setelah mengisi Data Diri & Data Pengiriman reward dengan lengkap.</li>
             </ul>
 
-            <h2 class="text-base font-bold">Hadiah Langsung Konsumen (Gebyar Hadiah Sobek Label Yamalube)</h2>
-            <ul class="list-disc list-inside mb-8">
-                <li class="md:whitespace-nowrap">Hadiah hanya bisa didapatkan oleh konsumen beruntung yang telah mendaftarkan dirinya pada sistem sebagai konsumen</li>
-                <li class="md:whitespace-nowrap">Hadiah berupa uang digital atau hadiah berupa barang fisik (10 Unit Motor Yamaha, 10 Unit Smartphone, 5 Unit Game Console, 50 pcs Logam Mulia)</li>
-                <li class="md:whitespace-nowrap">Pengiriman hadiah langsung dilaksanakan maksimal 7 hari sejak notifikasi pengiriman hadiah diterima</li>
-                <li class="md:whitespace-nowrap">Pengiriman hadiah dapat dilakukan setelah Data diri, alamat, KTP diisi dengan lengkap</li>
-                <li class="md:whitespace-nowrap">Penambahan waktu penerimaan kepada penerima dapat dilakukan pihak ekspedisi</li>
-                <li class="md:whitespace-nowrap">Hadiah yang dikembalikan oleh pihak ekspedisi karena alamat tidak sesuai, tidak dapat di kirimkan ulang (gugur)</li>
-                <li class="md:whitespace-nowrap">Ketentuan spesifikasi dan garansi produk bukan menjadi tanggung jawab penyelenggara</li>
-                <li class="whitespace-pre-line">Pengiriman uang digital dilaksanakan setiap hari secara Real Time setelah mengisi Data Diri & Nomor Selular yang terhubung dengan akun dompet digital (e-wallet) yang dipilih (Dana, Ovo, Gopay dan Link Aja) serta melengkapi KTP secara benar</li>
-                <li class="md:whitespace-nowrap">Aktifitas ini telah memiliki ijin dan terdaftar di Kementerian Sosial RI</li>
-                <li class="md:whitespace-nowrap">Pajak pemenang hadiah ditanggung oleh PT. Yamaha Indonesia Motor Mfg.</li>
+            <h2 class="text-lg font-bold mb-4 sm:text-base">Hadiah Langsung Konsumen (Gebyar Hadiah Sobek Label Yamalube)</h2>
+            <ul class="list-disc list-inside mb-8 space-y-2 lg:text-nowrap">
+                <li>Hadiah hanya bisa didapatkan oleh konsumen beruntung yang telah mendaftarkan dirinya pada sistem sebagai konsumen.</li>
+                <li>Hadiah berupa uang digital atau hadiah berupa barang fisik (10 Unit Motor Yamaha, 10 Unit Smartphone, 5 Unit Game Console, 50 pcs Logam Mulia).</li>
+                <li>Pengiriman hadiah langsung dilaksanakan maksimal 7 hari sejak notifikasi pengiriman hadiah diterima.</li>
+                <li>Pengiriman hadiah dapat dilakukan setelah Data diri, alamat, dan KTP diisi dengan lengkap.</li>
+                <li>Hadiah yang dikembalikan oleh pihak ekspedisi karena alamat tidak sesuai, tidak dapat dikirimkan ulang (gugur).</li>
+                <li>Ketentuan spesifikasi dan garansi produk bukan menjadi tanggung jawab penyelengara</li>
+                <li>Pengiriman uang digital dilaksanakan setiap hari secara Real Time setelah mengisi Data Diri & Nomor Selular yang terhubung dengan akun dompet digital (e-wallet)</li>
+                <li>Aktifitas ini telah memiliki ijin dan terdaftar di Kementerian Sosial RI</li>
+                <li>Pajak pemenang hadiah ditanggung oleh PT. Yamaha Indonesia Motor Mfg.</li>
             </ul>
 
-            <h2 class="text-base font-bold">Ketentuan Hadiah Untuk Pemenang</h2>
-            <ul class="list-disc list-inside mb-8">
-                <li>Semua bentuk hadiah tidak dapat diuangkan / ditukarkan dalam bentuk lain</li>
-                <li class="md:whitespace-nowrap">Pihak Yamaha ber-hak membatalkan hadiah yang diklaim pemenang jika ditemukan kecurangan / ketidaksesuaian dalam mengikuti program ini</li>
-                <li class="md:whitespace-nowrap">Hadiah yang berhak diterima oleh pemenang yang bersangkutan akan diundi kembali kepada konsumen lainnya apabila tidak dapat dikonfirmasi selama 14 hari sejak hadiah keluar</li>
+            <h2 class="text-lg font-bold mb-4 sm:text-base">Ketentuan Hadiah Untuk Pemenang</h2>
+            <ul class="list-disc list-inside mb-8 space-y-2 lg:text-nowrap">
+                <li>Semua bentuk hadiah tidak dapat diuangkan atau ditukarkan dalam bentuk lain.</li>
+                <li>Pihak Yamaha berhak membatalkan hadiah yang diklaim pemenang jika ditemukan kecurangan atau ketidaksesuaian dalam mengikuti program ini.</li>
+                <li>Hadiah yang berhak diterima oleh pemenang yang bersangkutan akan diundi kembali kepada konsumen lainnya apabila tidak dapat dikonfirmasi selama 14 hari sejak hadiah keluar.</li>
             </ul>
         </div>
     </div>
 </div>
+
 
 
         </div>
@@ -132,8 +133,6 @@
 </div>
 
 </body>
-
-
 
     <!-- Preloader 
     <div id="preloader">
@@ -173,9 +172,9 @@
             <img src="asset/svg/Icon Products.svg" alt="Search Icon" class="w-5 h-5 mb-2">
             <span class="text-m text-white group-hover:text-gray-200">Product</span>
         </a>
-        <a href="tos.php" class="inline-flex flex-col items-center justify-center px-5 border-x border-[#e11e25] hover:bg-[#cab28b] group">
-            <img src="asset/svg/Icon T&C.svg" alt="Notification Icon" class="w-5 h-5 mb-2">
-            <span class="text-m text-white group-hover:text-gray-200">T&C</span>
+        <a href="tos.php" class="inline-flex flex-col items-center justify-center px-5 border-x border-[#e11e25] bg-[#cab28b] group">
+            <img src="asset/svg/Icon T&C.svg" alt="Notification Icon" class="w-5 h-5 mb-2 filter invert sepia saturate-500 hue-rotate-180">
+            <span class="text-m text-black">T&C</span>
         </a>
         <a href="faq.php" class="inline-flex flex-col items-center justify-center px-5 border-x border-[#e11e25] hover:bg-[#cab28b] group">
             <img src="asset/svg/Icon FAQ.svg" alt="Wallet Icon" class="w-5 h-5 mb-2">
@@ -207,53 +206,57 @@
         <!-- Main Grid -->
         <div class="grid gap-8 md:grid-cols-4">
             <!-- Logo Section -->
-            <div>
-                <a href="#" class="flex items-center">
-                    <img src="https://www.yamalubepromo.com/static/media/logo.260e7d11.svg" class="h-12" alt="Yamalube Logo" />
+            <div class="flex justify-center items-center">
+                <a href="#" class="flex">
+                    <img src="https://www.yamalubepromo.com/static/media/logo.260e7d11.svg" 
+                         class="h-16" 
+                         alt="Yamalube Logo" />
                 </a>
             </div>
 
             <!-- Download Section -->
             <div>
-                <h2 class="mb-3 text-sm font-bold uppercase text-white">Download My Yamaha</h2>
-                <div class="flex items-center mb-4">
-                    <a href="#m" target="_blank">
-                        <img alt="Yamaha logo" class="w-full max-w-[220px]" src="https://www.yamalubepromo.com/assets/images/logo_app_yamaha_resize.png" />
+                <h2 class="mb-3 text-sm sm:text-base lg:text-base font-bold uppercase text-white">
+                    Download My Yamaha
+                </h2>
+                <div class="flex flex-row items-center mb-4">
+                    <a href="#m" target="_blank" class="flex flex-row items-center">
+                        <img alt="Yamaha logo" class="w-full max-w-[320px] sm:max-w-[320px] lg:max-w-[400px]" 
+                             src="https://www.yamalubepromo.com/assets/images/logo_app_yamaha_resize.png" />
                     </a>
                 </div>
-                <p class="mb-2 text-sm font-bold text-white">IZIN UNDIAN GRATIS BERHADIAH (UGB):</p>
-                <p class="mb-6 text-sm text-white">NOMOR: 284/5.5/PI.02/03/2024</p>
+                <p class="mb-2 text-xs sm:text-base lg:text-base font-bold text-white">
+                    IZIN UNDIAN GRATIS BERHADIAH (UGB):
+                </p>
+                <p class="mb-6 whitespace-nowrap text-lg sm:text-sm lg:text-lg text-white">
+                    NOMOR: 284/5.5/PI.02/03/2024
+                </p>
             </div>
 
             <!-- Contact Section -->
             <div>
-                <h2 class="mb-6 text-lg font-bold text-white">Contact Us</h2>
-                <ul class="space-y-2 text-sm text-white">
-                    <li>YAMAHA INDONESIA MOTOR MANUFACTURING</li>
+                <h2 class="mb-6 text-2xl sm:text-2xl lg:text-3xl font-normal font-segoe text-white">Contact Us</h2>
+                <ul class="space-y-2 text-xs sm:text-sm lg:text-base text-white">
+                    <li class="underline underline-offset-4">YAMAHA INDONESIA MOTOR MANUFACTURING</li>
                     <li>JL. DR KRT RADJIMAN WIDYODININGRAT</li>
                     <li>CAKUNG JAKARTA TIMUR 13920 INDONESIA</li>
-                    <li class="flex items-center space-x-2">
-    <!-- Ikon Telepon -->
-    <a href="tel:08111080090" class="flex items-center space-x-2 hover:underline">
-        <img src="asset/svg/icon_phone_new.svg" alt="Phone Icon" class="w-5 h-5">
-        <span>08111080090</span>
-    </a>
-</li>
-<li class="flex items-center space-x-2">
-    <!-- Ikon Email -->
-    <a href="mailto:contact_center@yamaha-motor.co.id" class="flex items-center space-x-2 hover:underline">
-        <img src="asset/svg/icon email.svg" alt="Email Icon" class="w-5 h-5">
-        <span>contact_center@yamaha-motor.co.id</span>
-    </a>
-</li>
-
+                    <li class="flex flex-row items-center space-y-2">
+                        <!-- Ikon Telepon -->
+                        <img src="asset/svg/icon_phone_new.svg" alt="Phone Icon" class="w-5 h-5">
+                        <a href="tel:08111080090" class="hover:underline">08111080090</a>
+                    </li>
+                    <li class="flex flex-row items-center space-x-2">
+                        <!-- Ikon Email -->
+                        <img src="asset/svg/icon email.svg" alt="Email Icon" class="w-5 h-5">
+                        <a href="mailto:contact_center@yamaha-motor.co.id" class="hover:underline">contact_center@yamaha-motor.co.id</a>
+                    </li>
                 </ul>
             </div>
 
             <!-- Quick Links Section -->
             <div>
-                <h2 class="mb-6 text-lg font-bold text-white">Quick Links</h2>
-                <ul class="space-y-2 text-sm text-white">
+                <h2 class="mb-6 text-3xl sm:text-2xl lg:text-3xl font-normal font-segoe text-white">Quick Links</h2>
+                <ul class="space-y-2 text-xs sm:text-sm lg:text-base text-white">
                     <li><a href="#" class="hover:underline">Home</a></li>
                     <li><a href="#" class="hover:underline">Our Products</a></li>
                     <li><a href="#" class="hover:underline">Terms & Condition</a></li>
@@ -266,8 +269,8 @@
         <hr class="my-8 border-gray-700" />
 
         <!-- Footer Bottom Section -->
-        <div class="flex flex-col items-center justify-between text-center text-sm text-white sm:flex-row">
-            <span>© 2024 All Rights Reserved by Yamaha Motor Indonesia</span>
+        <div class="flex-grow bg-[#d1b38b] text-black py-2">
+            <p class="text-xs sm:text-sm lg:text-base">Copyrights © 2024 All Rights Reserved by Yamaha Motor Indonesia</p>
         </div>
     </div>
 </footer>
